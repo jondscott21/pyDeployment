@@ -1,0 +1,7 @@
+Django==1.10.5
+django-extensions==1.7.6
+graphviz==0.5.2
+pydot==1.2.3
+pydotplus==2.0.2
+pyparsing==2.1.10
+six==1.10.0
